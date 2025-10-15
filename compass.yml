@@ -1,0 +1,13 @@
+name: parcel
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/4bf3471a-10a0-4e3a-bfea-a8900441da87
+description: The zero configuration build tool for the web. 📦🚀
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
